@@ -3,6 +3,13 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#input {
+  border: none;
+  border-radius: 10px;
+  height: 20px;
+  width: 100px;
+  text-align: center;
+}
 
 #container-1 {
   display: flex;
